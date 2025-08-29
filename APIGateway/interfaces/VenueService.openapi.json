@@ -1,0 +1,4 @@
+{
+  "warning": "Could not copy upstream spec from /home/kavia/workspace/code-generation/event-booking-and-management-app-13870-14376/APIGateway/src/api/../../event-booking-and-management-app-13870-14380/VenueService/interfaces/openapi.json",
+  "error": "[Errno 2] No such file or directory: '/home/kavia/workspace/code-generation/event-booking-and-management-app-13870-14376/APIGateway/src/api/../../event-booking-and-management-app-13870-14380/VenueService/interfaces/openapi.json'"
+}
